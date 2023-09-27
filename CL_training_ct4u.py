@@ -82,9 +82,9 @@ def main(_run, _config, _log):
     rounds = 5 #[20,10,5]
     snap = 11
     step = 4000 #[1000,2000,4000]
-    T = 0.1  # [snap1-(0.1-0.43),snap2-(0.001-perf),snap3-(1-0.550),snap4(5-),snap5(1-lr-0.50),snap6(2-0.58),snap7(3-0.49),snap8(1.5-),snap9(2.2-0.52)]
-    t = 2 # [snap1-(0.1-0.43),snap2-(0.001-perf),snap3-(1-0.550),snap4(5-),snap5(1-lr-0.50),snap6(2-0.58),snap7(2-0.53)]
-    # new [snap8(2x10-2-0.51),snap8(2x10-2-20lr-0.49),snap8(4x5-2-4lr-0.56),snap9(4x5-2-8lr-[0.49,0.30,0.68,0.69]-0.569),snap10(4x5-2-[dylr]-0.55),snap11(4x5-2-0.559)]
+    T = 0.1  
+    t = 2 
+    
     for i in range(rounds):
         if i==0:
             try:
