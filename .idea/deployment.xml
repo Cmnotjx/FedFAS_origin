@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" autoUpload="Always" remoteFilesAllowedToDisappearOnAutoupload="false">
+    <serverData>
+      <paths name="b311@59.67.149.78:3001">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/Fed_fewshot_proto" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="b311@59.67.149.89:3002">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/b311/data1/wjp/Fed_fewshot_proto" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="b311@59.67.149.89:9772">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/Fed_fewshot_proto" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="b311@59.67.149.89:9772 password">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/date/wjp/Fed_fewshot_proto" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="ubuntu@59.67.149.89:3001 password">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/Fed_fewshot_proto" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+    <option name="myAutoUpload" value="ALWAYS" />
+  </component>
+</project>
